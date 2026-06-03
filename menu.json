@@ -1,0 +1,92 @@
+[
+  {
+    "Id": 24,
+    "Categoria": "Bebidas",
+    "Nombre": "inka cola",
+    "Descripcion": "",
+    "Precio": 3,
+    "Tag": "",
+    "EsDestacado": false,
+    "Orden": 6
+  },
+  {
+    "Id": 25,
+    "Categoria": "Bebidas",
+    "Nombre": "coca cola",
+    "Descripcion": "",
+    "Precio": 3,
+    "Tag": "",
+    "EsDestacado": false,
+    "Orden": 7
+  },
+  {
+    "Id": 26,
+    "Categoria": "Duos",
+    "Nombre": "arroz con mariscos",
+    "Descripcion": "",
+    "Precio": 25,
+    "Tag": "",
+    "EsDestacado": false,
+    "Orden": 8
+  },
+  {
+    "Id": 27,
+    "Categoria": "Duos",
+    "Nombre": "trio marino",
+    "Descripcion": "",
+    "Precio": 50,
+    "Tag": "",
+    "EsDestacado": false,
+    "Orden": 9
+  },
+  {
+    "Id": 21,
+    "Categoria": "Entradas",
+    "Nombre": "ensalada rusa",
+    "Descripcion": "",
+    "Precio": -1,
+    "Tag": "",
+    "EsDestacado": false,
+    "Orden": 1
+  },
+  {
+    "Id": 22,
+    "Categoria": "Platos de fondo",
+    "Nombre": "arroz con pollo",
+    "Descripcion": "",
+    "Precio": 11,
+    "Tag": "",
+    "EsDestacado": false,
+    "Orden": 2
+  },
+  {
+    "Id": 23,
+    "Categoria": "Postres",
+    "Nombre": "gelatina",
+    "Descripcion": "",
+    "Precio": 5,
+    "Tag": "",
+    "EsDestacado": false,
+    "Orden": 5
+  },
+  {
+    "Id": 28,
+    "Categoria": "Platos de fondo",
+    "Nombre": "cau cau",
+    "Descripcion": "",
+    "Precio": 11,
+    "Tag": "",
+    "EsDestacado": false,
+    "Orden": 3
+  },
+  {
+    "Id": 29,
+    "Categoria": "Platos de fondo",
+    "Nombre": "tallarines verdes",
+    "Descripcion": "",
+    "Precio": 14,
+    "Tag": "",
+    "EsDestacado": false,
+    "Orden": 4
+  }
+]
