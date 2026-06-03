@@ -1,92 +1,52 @@
 [
   {
-    "Id": 24,
-    "Categoria": "Bebidas",
-    "Nombre": "inka cola",
-    "Descripcion": "",
-    "Precio": 3,
-    "Tag": "",
-    "EsDestacado": false,
-    "Orden": 6
+    "id": 30,
+    "categoria": "Entradas",
+    "nombre": "churunku",
+    "descripcion": "",
+    "precio": 0,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 1
   },
   {
-    "Id": 25,
-    "Categoria": "Bebidas",
-    "Nombre": "coca cola",
-    "Descripcion": "",
-    "Precio": 3,
-    "Tag": "",
-    "EsDestacado": false,
-    "Orden": 7
+    "id": 31,
+    "categoria": "Platos de fondo",
+    "nombre": "arroz con pollo",
+    "descripcion": "",
+    "precio": 10,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 2
   },
   {
-    "Id": 26,
-    "Categoria": "Duos",
-    "Nombre": "arroz con mariscos",
-    "Descripcion": "",
-    "Precio": 25,
-    "Tag": "",
-    "EsDestacado": false,
-    "Orden": 8
+    "id": 32,
+    "categoria": "Postres",
+    "nombre": "gelatina",
+    "descripcion": "",
+    "precio": 0,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 3
   },
   {
-    "Id": 27,
-    "Categoria": "Duos",
-    "Nombre": "trio marino",
-    "Descripcion": "",
-    "Precio": 50,
-    "Tag": "",
-    "EsDestacado": false,
-    "Orden": 9
+    "id": 33,
+    "categoria": "Bebidas",
+    "nombre": "inka kola",
+    "descripcion": "",
+    "precio": 3,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 4
   },
   {
-    "Id": 21,
-    "Categoria": "Entradas",
-    "Nombre": "ensalada rusa",
-    "Descripcion": "",
-    "Precio": -1,
-    "Tag": "",
-    "EsDestacado": false,
-    "Orden": 1
-  },
-  {
-    "Id": 22,
-    "Categoria": "Platos de fondo",
-    "Nombre": "arroz con pollo",
-    "Descripcion": "",
-    "Precio": 11,
-    "Tag": "",
-    "EsDestacado": false,
-    "Orden": 2
-  },
-  {
-    "Id": 23,
-    "Categoria": "Postres",
-    "Nombre": "gelatina",
-    "Descripcion": "",
-    "Precio": 5,
-    "Tag": "",
-    "EsDestacado": false,
-    "Orden": 5
-  },
-  {
-    "Id": 28,
-    "Categoria": "Platos de fondo",
-    "Nombre": "cau cau",
-    "Descripcion": "",
-    "Precio": 11,
-    "Tag": "",
-    "EsDestacado": false,
-    "Orden": 3
-  },
-  {
-    "Id": 29,
-    "Categoria": "Platos de fondo",
-    "Nombre": "tallarines verdes",
-    "Descripcion": "",
-    "Precio": 14,
-    "Tag": "",
-    "EsDestacado": false,
-    "Orden": 4
+    "id": 34,
+    "categoria": "Duos",
+    "nombre": "arroz con mariscos",
+    "descripcion": "",
+    "precio": 20,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 5
   }
 ]
