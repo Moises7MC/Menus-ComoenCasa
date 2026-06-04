@@ -30,26 +30,6 @@
     "orden": 1
   },
   {
-    "id": 31,
-    "categoria": "Platos de fondo",
-    "nombre": "arroz con pollo",
-    "descripcion": "",
-    "precio": 10,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 4
-  },
-  {
-    "id": 32,
-    "categoria": "Postres",
-    "nombre": "gelatina",
-    "descripcion": "",
-    "precio": 0,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 8
-  },
-  {
     "id": 35,
     "categoria": "Entradas",
     "nombre": "humita",
@@ -68,6 +48,16 @@
     "tag": "",
     "esDestacado": false,
     "orden": 3
+  },
+  {
+    "id": 31,
+    "categoria": "Platos de fondo",
+    "nombre": "arroz con pollo",
+    "descripcion": "",
+    "precio": 10,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 4
   },
   {
     "id": 37,
@@ -98,5 +88,15 @@
     "tag": "",
     "esDestacado": false,
     "orden": 7
+  },
+  {
+    "id": 32,
+    "categoria": "Postres",
+    "nombre": "gelatina",
+    "descripcion": "",
+    "precio": 0,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 8
   }
 ]
