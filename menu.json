@@ -7,7 +7,7 @@
     "precio": 10,
     "tag": "",
     "esDestacado": false,
-    "orden": 6
+    "orden": 7
   },
   {
     "id": 7,
@@ -17,7 +17,7 @@
     "precio": 3.5,
     "tag": "",
     "esDestacado": false,
-    "orden": 7
+    "orden": 8
   },
   {
     "id": 1,
@@ -68,5 +68,15 @@
     "tag": "Chef recomienda",
     "esDestacado": false,
     "orden": 5
+  },
+  {
+    "id": 8,
+    "categoria": "Platos de fondo",
+    "nombre": "milanesa",
+    "descripcion": "arroz papas, filete de pollo apanado.",
+    "precio": 12,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 6
   }
 ]
