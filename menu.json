@@ -1,28 +1,28 @@
 [
   {
-    "id": 33,
+    "id": 6,
     "categoria": "Bebidas",
-    "nombre": "inka kola",
+    "nombre": "concordia 3 litros",
     "descripcion": "",
-    "precio": 3,
+    "precio": 10,
     "tag": "",
     "esDestacado": false,
-    "orden": 9
+    "orden": 6
   },
   {
-    "id": 34,
-    "categoria": "Duos",
-    "nombre": "arroz con mariscos",
+    "id": 7,
+    "categoria": "Bebidas",
+    "nombre": "inka kola de 600 ml.",
     "descripcion": "",
-    "precio": 20,
+    "precio": 3.5,
     "tag": "",
     "esDestacado": false,
-    "orden": 10
+    "orden": 7
   },
   {
-    "id": 30,
+    "id": 1,
     "categoria": "Entradas",
-    "nombre": "churunku",
+    "nombre": "humita",
     "descripcion": "",
     "precio": 0,
     "tag": "",
@@ -30,9 +30,9 @@
     "orden": 1
   },
   {
-    "id": 35,
+    "id": 2,
     "categoria": "Entradas",
-    "nombre": "humita",
+    "nombre": "sopa de churumbo",
     "descripcion": "",
     "precio": 0,
     "tag": "",
@@ -40,63 +40,33 @@
     "orden": 2
   },
   {
-    "id": 36,
-    "categoria": "Entradas",
-    "nombre": "tamal",
+    "id": 3,
+    "categoria": "Platos de fondo",
+    "nombre": "aji de gallina",
     "descripcion": "",
-    "precio": 0,
-    "tag": "",
+    "precio": 10,
+    "tag": "Chef recomienda",
     "esDestacado": false,
     "orden": 3
   },
   {
-    "id": 31,
+    "id": 4,
     "categoria": "Platos de fondo",
     "nombre": "arroz con pollo",
     "descripcion": "",
     "precio": 10,
-    "tag": "",
+    "tag": "Chef recomienda",
     "esDestacado": false,
     "orden": 4
   },
   {
-    "id": 37,
+    "id": 5,
     "categoria": "Platos de fondo",
-    "nombre": "cauca",
-    "descripcion": "",
-    "precio": 11,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 5
-  },
-  {
-    "id": 38,
-    "categoria": "Platos de fondo",
-    "nombre": "arroz con chancho",
+    "nombre": "lomo saltado",
     "descripcion": "",
     "precio": 12,
-    "tag": "",
+    "tag": "Chef recomienda",
     "esDestacado": false,
-    "orden": 6
-  },
-  {
-    "id": 39,
-    "categoria": "Platos de fondo",
-    "nombre": "tallarines verdes",
-    "descripcion": "",
-    "precio": 13,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 7
-  },
-  {
-    "id": 32,
-    "categoria": "Postres",
-    "nombre": "gelatina",
-    "descripcion": "",
-    "precio": 0,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 8
+    "orden": 5
   }
 ]

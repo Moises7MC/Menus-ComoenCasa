@@ -1,9 +1,8 @@
 @echo off
-cd /d "C:\Users\Moise\OneDrive\Documentos\Moche\COMO EN CASA\QR"
-echo Subiendo cambios a GitHub...
+cd /d "C:\publish\QR"
 git add .
-git commit -m "Actualizacion de menu - %date% %time%"
-git push
+git commit -m "Actualizacion de menu - %date% %time%" 2>&1
+git push origin main 2>&1
 echo.
-echo ¡Despliegue automatico iniciado en Netlify!
+echo Listo!
 pause
