@@ -7,7 +7,7 @@
     "precio": 10,
     "tag": "",
     "esDestacado": false,
-    "orden": 7
+    "orden": 8
   },
   {
     "id": 7,
@@ -17,7 +17,7 @@
     "precio": 3.5,
     "tag": "",
     "esDestacado": false,
-    "orden": 8
+    "orden": 9
   },
   {
     "id": 1,
@@ -47,7 +47,7 @@
     "precio": 10,
     "tag": "Chef recomienda",
     "esDestacado": false,
-    "orden": 3
+    "orden": 4
   },
   {
     "id": 4,
@@ -57,7 +57,7 @@
     "precio": 10,
     "tag": "Chef recomienda",
     "esDestacado": false,
-    "orden": 4
+    "orden": 5
   },
   {
     "id": 5,
@@ -67,7 +67,7 @@
     "precio": 12,
     "tag": "Chef recomienda",
     "esDestacado": false,
-    "orden": 5
+    "orden": 6
   },
   {
     "id": 8,
@@ -77,6 +77,16 @@
     "precio": 12,
     "tag": "",
     "esDestacado": false,
-    "orden": 6
+    "orden": 7
+  },
+  {
+    "id": 9,
+    "categoria": "Entradas",
+    "nombre": "tamales",
+    "descripcion": "",
+    "precio": 0,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 3
   }
 ]
