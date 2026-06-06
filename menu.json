@@ -1,28 +1,8 @@
 [
   {
-    "id": 6,
-    "categoria": "Bebidas",
-    "nombre": "concordia 3 litros",
-    "descripcion": "",
-    "precio": 10,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 8
-  },
-  {
-    "id": 7,
-    "categoria": "Bebidas",
-    "nombre": "inka kola de 600 ml.",
-    "descripcion": "",
-    "precio": 3.5,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 9
-  },
-  {
-    "id": 1,
+    "id": 10,
     "categoria": "Entradas",
-    "nombre": "humita",
+    "nombre": "SOPA DE POLLO",
     "descripcion": "",
     "precio": 0,
     "tag": "",
@@ -30,9 +10,9 @@
     "orden": 1
   },
   {
-    "id": 2,
+    "id": 11,
     "categoria": "Entradas",
-    "nombre": "sopa de churumbo",
+    "nombre": "TORTITAS DE CHOCLO",
     "descripcion": "",
     "precio": 0,
     "tag": "",
@@ -40,53 +20,243 @@
     "orden": 2
   },
   {
-    "id": 3,
-    "categoria": "Platos de fondo",
-    "nombre": "aji de gallina",
-    "descripcion": "",
-    "precio": 10,
-    "tag": "Chef recomienda",
-    "esDestacado": false,
-    "orden": 4
-  },
-  {
-    "id": 4,
-    "categoria": "Platos de fondo",
-    "nombre": "arroz con pollo",
-    "descripcion": "",
-    "precio": 10,
-    "tag": "Chef recomienda",
-    "esDestacado": false,
-    "orden": 5
-  },
-  {
-    "id": 5,
-    "categoria": "Platos de fondo",
-    "nombre": "lomo saltado",
-    "descripcion": "",
-    "precio": 12,
-    "tag": "Chef recomienda",
-    "esDestacado": false,
-    "orden": 6
-  },
-  {
-    "id": 8,
-    "categoria": "Platos de fondo",
-    "nombre": "milanesa",
-    "descripcion": "arroz papas, filete de pollo apanado.",
-    "precio": 12,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 7
-  },
-  {
-    "id": 9,
+    "id": 12,
     "categoria": "Entradas",
-    "nombre": "tamales",
+    "nombre": "ENSALADA DE PALTA",
     "descripcion": "",
     "precio": 0,
     "tag": "",
     "esDestacado": false,
     "orden": 3
+  },
+  {
+    "id": 13,
+    "categoria": "Platos de fondo",
+    "nombre": "ASADO DE RES C7 PURE",
+    "descripcion": "",
+    "precio": 12,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 4
+  },
+  {
+    "id": 14,
+    "categoria": "Platos de fondo",
+    "nombre": "SECO DE RES C/ FRIJOL",
+    "descripcion": "",
+    "precio": 12,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 5
+  },
+  {
+    "id": 15,
+    "categoria": "Platos de fondo",
+    "nombre": "GALLINA MECHADA",
+    "descripcion": "",
+    "precio": 12,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 6
+  },
+  {
+    "id": 16,
+    "categoria": "Platos de fondo",
+    "nombre": "ARROZ C/POLLO",
+    "descripcion": "",
+    "precio": 10,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 7
+  },
+  {
+    "id": 17,
+    "categoria": "Platos de fondo",
+    "nombre": "AJI DE GALLINA",
+    "descripcion": "",
+    "precio": 10,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 8
+  },
+  {
+    "id": 18,
+    "categoria": "Platos de fondo",
+    "nombre": "PESCADO FRITO",
+    "descripcion": "",
+    "precio": 10,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 9
+  },
+  {
+    "id": 19,
+    "categoria": "Platos de fondo",
+    "nombre": "LOMO SALTADO",
+    "descripcion": "",
+    "precio": 12,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 10
+  },
+  {
+    "id": 20,
+    "categoria": "Platos de fondo",
+    "nombre": "CHURRASCO C/ PAPAS FRITAS",
+    "descripcion": "",
+    "precio": 12,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 11
+  },
+  {
+    "id": 21,
+    "categoria": "Platos de fondo",
+    "nombre": "PECHUGA A LA PLANCHA C/ PAPAS FRITAS",
+    "descripcion": "",
+    "precio": 12,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 12
+  },
+  {
+    "id": 22,
+    "categoria": "Platos de fondo",
+    "nombre": "MILANESA C/PAPAS FRITAS",
+    "descripcion": "",
+    "precio": 12,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 13
+  },
+  {
+    "id": 23,
+    "categoria": "Platos de fondo",
+    "nombre": "CHULETA C/ PAPAS FRITAS",
+    "descripcion": "",
+    "precio": 12,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 14
+  },
+  {
+    "id": 24,
+    "categoria": "Platos de fondo",
+    "nombre": "CEVICHE DE TOYO",
+    "descripcion": "",
+    "precio": 15,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 15
+  },
+  {
+    "id": 25,
+    "categoria": "Platos de fondo",
+    "nombre": "CEVICHE CON AJI DE GALLINA",
+    "descripcion": "",
+    "precio": 18,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 16
+  },
+  {
+    "id": 26,
+    "categoria": "Platos de fondo",
+    "nombre": "CEVICHE CON SECO DE RES",
+    "descripcion": "",
+    "precio": 18,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 17
+  },
+  {
+    "id": 27,
+    "categoria": "Bebidas",
+    "nombre": "VOLT ",
+    "descripcion": "",
+    "precio": 2.5,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 18
+  },
+  {
+    "id": 28,
+    "categoria": "Bebidas",
+    "nombre": "AGUA MINERAL ",
+    "descripcion": "",
+    "precio": 1.5,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 19
+  },
+  {
+    "id": 29,
+    "categoria": "Bebidas",
+    "nombre": "INCA COLA Y COCA COLA 1/2 LITRO ",
+    "descripcion": "",
+    "precio": 3.5,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 20
+  },
+  {
+    "id": 30,
+    "categoria": "Bebidas",
+    "nombre": "INCA COLA 1 1/2 ",
+    "descripcion": "",
+    "precio": 10,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 21
+  },
+  {
+    "id": 31,
+    "categoria": "Bebidas",
+    "nombre": "GATERODE",
+    "descripcion": "",
+    "precio": 2.5,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 22
+  },
+  {
+    "id": 32,
+    "categoria": "Bebidas",
+    "nombre": "CASINELLI",
+    "descripcion": "",
+    "precio": 2,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 23
+  },
+  {
+    "id": 33,
+    "categoria": "Bebidas",
+    "nombre": "GUARANA ",
+    "descripcion": "",
+    "precio": 2,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 24
+  },
+  {
+    "id": 34,
+    "categoria": "Bebidas",
+    "nombre": "CERVEZA PEQUE\u00D1A ",
+    "descripcion": "",
+    "precio": 6,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 25
+  },
+  {
+    "id": 35,
+    "categoria": "Bebidas",
+    "nombre": "CERVEZA PILSEN",
+    "descripcion": "",
+    "precio": 8,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 26
   }
 ]
