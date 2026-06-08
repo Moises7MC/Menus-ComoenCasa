@@ -1,175 +1,5 @@
 [
   {
-    "id": 10,
-    "categoria": "Entradas",
-    "nombre": "SOPA DE POLLO",
-    "descripcion": "",
-    "precio": 0,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 1
-  },
-  {
-    "id": 11,
-    "categoria": "Entradas",
-    "nombre": "TORTITAS DE CHOCLO",
-    "descripcion": "",
-    "precio": 0,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 2
-  },
-  {
-    "id": 12,
-    "categoria": "Entradas",
-    "nombre": "ENSALADA DE PALTA",
-    "descripcion": "",
-    "precio": 0,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 3
-  },
-  {
-    "id": 13,
-    "categoria": "Platos de fondo",
-    "nombre": "ASADO DE RES C7 PURE",
-    "descripcion": "",
-    "precio": 12,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 4
-  },
-  {
-    "id": 14,
-    "categoria": "Platos de fondo",
-    "nombre": "SECO DE RES C/ FRIJOL",
-    "descripcion": "",
-    "precio": 12,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 5
-  },
-  {
-    "id": 15,
-    "categoria": "Platos de fondo",
-    "nombre": "GALLINA MECHADA",
-    "descripcion": "",
-    "precio": 12,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 6
-  },
-  {
-    "id": 16,
-    "categoria": "Platos de fondo",
-    "nombre": "ARROZ C/POLLO",
-    "descripcion": "",
-    "precio": 10,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 7
-  },
-  {
-    "id": 17,
-    "categoria": "Platos de fondo",
-    "nombre": "AJI DE GALLINA",
-    "descripcion": "",
-    "precio": 10,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 8
-  },
-  {
-    "id": 18,
-    "categoria": "Platos de fondo",
-    "nombre": "PESCADO FRITO",
-    "descripcion": "",
-    "precio": 10,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 9
-  },
-  {
-    "id": 19,
-    "categoria": "Platos de fondo",
-    "nombre": "LOMO SALTADO",
-    "descripcion": "",
-    "precio": 12,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 10
-  },
-  {
-    "id": 20,
-    "categoria": "Platos de fondo",
-    "nombre": "CHURRASCO C/ PAPAS FRITAS",
-    "descripcion": "",
-    "precio": 12,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 11
-  },
-  {
-    "id": 21,
-    "categoria": "Platos de fondo",
-    "nombre": "PECHUGA A LA PLANCHA C/ PAPAS FRITAS",
-    "descripcion": "",
-    "precio": 12,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 12
-  },
-  {
-    "id": 22,
-    "categoria": "Platos de fondo",
-    "nombre": "MILANESA C/PAPAS FRITAS",
-    "descripcion": "",
-    "precio": 12,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 13
-  },
-  {
-    "id": 23,
-    "categoria": "Platos de fondo",
-    "nombre": "CHULETA C/ PAPAS FRITAS",
-    "descripcion": "",
-    "precio": 12,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 14
-  },
-  {
-    "id": 24,
-    "categoria": "Platos de fondo",
-    "nombre": "CEVICHE DE TOYO",
-    "descripcion": "",
-    "precio": 15,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 15
-  },
-  {
-    "id": 25,
-    "categoria": "Platos de fondo",
-    "nombre": "CEVICHE CON AJI DE GALLINA",
-    "descripcion": "",
-    "precio": 18,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 16
-  },
-  {
-    "id": 26,
-    "categoria": "Platos de fondo",
-    "nombre": "CEVICHE CON SECO DE RES",
-    "descripcion": "",
-    "precio": 18,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 17
-  },
-  {
     "id": 27,
     "categoria": "Bebidas",
     "nombre": "VOLT ",
@@ -258,5 +88,175 @@
     "tag": "",
     "esDestacado": false,
     "orden": 26
+  },
+  {
+    "id": 10,
+    "categoria": "Entradas",
+    "nombre": "SANCOCHADO",
+    "descripcion": "",
+    "precio": 0,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 1
+  },
+  {
+    "id": 11,
+    "categoria": "Entradas",
+    "nombre": "PALTA RELLENA",
+    "descripcion": "",
+    "precio": 0,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 2
+  },
+  {
+    "id": 12,
+    "categoria": "Entradas",
+    "nombre": "CEVICHE",
+    "descripcion": "",
+    "precio": 0,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 3
+  },
+  {
+    "id": 13,
+    "categoria": "Platos de fondo",
+    "nombre": "ESPESADO DE RES CON CEVICHE",
+    "descripcion": "",
+    "precio": 12,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 4
+  },
+  {
+    "id": 14,
+    "categoria": "Platos de fondo",
+    "nombre": "ARROZ A LA JARDINERA CON POLLO AL HORNO",
+    "descripcion": "",
+    "precio": 12,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 5
+  },
+  {
+    "id": 15,
+    "categoria": "Platos de fondo",
+    "nombre": "ALITAS BROSTER",
+    "descripcion": "",
+    "precio": 12,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 6
+  },
+  {
+    "id": 16,
+    "categoria": "Platos de fondo",
+    "nombre": "CHICHARRON DE LANGOSTINO",
+    "descripcion": "",
+    "precio": 12,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 7
+  },
+  {
+    "id": 17,
+    "categoria": "Platos de fondo",
+    "nombre": "SALTADITO DE POLLO",
+    "descripcion": "",
+    "precio": 10,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 8
+  },
+  {
+    "id": 18,
+    "categoria": "Platos de fondo",
+    "nombre": "CHANCHO MECHADO ",
+    "descripcion": "",
+    "precio": 10,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 9
+  },
+  {
+    "id": 19,
+    "categoria": "Platos de fondo",
+    "nombre": "SECO DE POLLO CON FRIJOL",
+    "descripcion": "",
+    "precio": 10,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 10
+  },
+  {
+    "id": 20,
+    "categoria": "Platos de fondo",
+    "nombre": "PESCADO FRITO",
+    "descripcion": "",
+    "precio": 11,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 11
+  },
+  {
+    "id": 21,
+    "categoria": "Platos de fondo",
+    "nombre": "LOMO SALTADO",
+    "descripcion": "",
+    "precio": 12,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 12
+  },
+  {
+    "id": 22,
+    "categoria": "Platos de fondo",
+    "nombre": "CHURRASCO CON PAPAS FRITAS",
+    "descripcion": "",
+    "precio": 12,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 13
+  },
+  {
+    "id": 23,
+    "categoria": "Platos de fondo",
+    "nombre": "PECHUGA A LA PLANCHA CON PAPAS FRITAS",
+    "descripcion": "",
+    "precio": 12,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 14
+  },
+  {
+    "id": 24,
+    "categoria": "Platos de fondo",
+    "nombre": "MILANESA CON PAPAS FRITAS ",
+    "descripcion": "",
+    "precio": 15,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 15
+  },
+  {
+    "id": 25,
+    "categoria": "Platos de fondo",
+    "nombre": "CHULETA CON PAPAS FRITAS ",
+    "descripcion": "",
+    "precio": 18,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 16
+  },
+  {
+    "id": 36,
+    "categoria": "Platos de fondo",
+    "nombre": "CEVICHE DE TOYO ",
+    "descripcion": "",
+    "precio": 15,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 17
   }
 ]
