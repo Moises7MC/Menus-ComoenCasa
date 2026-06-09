@@ -92,7 +92,7 @@
   {
     "id": 10,
     "categoria": "Entradas",
-    "nombre": "SANCOCHADO",
+    "nombre": "SOPA CRIOLLA",
     "descripcion": "",
     "precio": 0,
     "tag": "",
@@ -102,7 +102,7 @@
   {
     "id": 11,
     "categoria": "Entradas",
-    "nombre": "PALTA RELLENA",
+    "nombre": "PAPA A LA HUANCAINA ",
     "descripcion": "",
     "precio": 0,
     "tag": "",
@@ -112,7 +112,7 @@
   {
     "id": 12,
     "categoria": "Entradas",
-    "nombre": "CEVICHE",
+    "nombre": "TEQUE\u00D1OS MIXTOS",
     "descripcion": "",
     "precio": 0,
     "tag": "",
@@ -122,9 +122,9 @@
   {
     "id": 13,
     "categoria": "Platos de fondo",
-    "nombre": "ESPESADO DE RES CON CEVICHE",
+    "nombre": "ARROZ CON MARISCOS",
     "descripcion": "",
-    "precio": 12,
+    "precio": 13,
     "tag": "",
     "esDestacado": false,
     "orden": 4
@@ -132,9 +132,9 @@
   {
     "id": 14,
     "categoria": "Platos de fondo",
-    "nombre": "ARROZ A LA JARDINERA CON POLLO AL HORNO",
+    "nombre": "CHAUFA CON BROSTER",
     "descripcion": "",
-    "precio": 12,
+    "precio": 13,
     "tag": "",
     "esDestacado": false,
     "orden": 5
@@ -142,7 +142,7 @@
   {
     "id": 15,
     "categoria": "Platos de fondo",
-    "nombre": "ALITAS BROSTER",
+    "nombre": "CHICHARRON DE CHANCHO",
     "descripcion": "",
     "precio": 12,
     "tag": "",
@@ -152,9 +152,9 @@
   {
     "id": 16,
     "categoria": "Platos de fondo",
-    "nombre": "CHICHARRON DE LANGOSTINO",
+    "nombre": "TALLARINES ROJOS",
     "descripcion": "",
-    "precio": 12,
+    "precio": 10,
     "tag": "",
     "esDestacado": false,
     "orden": 7
@@ -162,9 +162,9 @@
   {
     "id": 17,
     "categoria": "Platos de fondo",
-    "nombre": "SALTADITO DE POLLO",
+    "nombre": "GALLINA MECHADA",
     "descripcion": "",
-    "precio": 10,
+    "precio": 12,
     "tag": "",
     "esDestacado": false,
     "orden": 8
@@ -172,7 +172,7 @@
   {
     "id": 18,
     "categoria": "Platos de fondo",
-    "nombre": "CHANCHO MECHADO ",
+    "nombre": "OLLUQUITO DE CARNE CON PLATANO FRITO",
     "descripcion": "",
     "precio": 10,
     "tag": "",
@@ -182,7 +182,7 @@
   {
     "id": 19,
     "categoria": "Platos de fondo",
-    "nombre": "SECO DE POLLO CON FRIJOL",
+    "nombre": "ESCABECHE DE POLLO ",
     "descripcion": "",
     "precio": 10,
     "tag": "",
@@ -244,7 +244,7 @@
     "categoria": "Platos de fondo",
     "nombre": "CHULETA CON PAPAS FRITAS ",
     "descripcion": "",
-    "precio": 18,
+    "precio": 12,
     "tag": "",
     "esDestacado": false,
     "orden": 16
