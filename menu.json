@@ -7,7 +7,7 @@
     "precio": 2.5,
     "tag": "",
     "esDestacado": false,
-    "orden": 18
+    "orden": 17
   },
   {
     "id": 28,
@@ -17,7 +17,7 @@
     "precio": 1.5,
     "tag": "",
     "esDestacado": false,
-    "orden": 19
+    "orden": 18
   },
   {
     "id": 29,
@@ -27,7 +27,7 @@
     "precio": 3.5,
     "tag": "",
     "esDestacado": false,
-    "orden": 20
+    "orden": 19
   },
   {
     "id": 30,
@@ -37,7 +37,7 @@
     "precio": 10,
     "tag": "",
     "esDestacado": false,
-    "orden": 21
+    "orden": 20
   },
   {
     "id": 31,
@@ -47,7 +47,7 @@
     "precio": 2.5,
     "tag": "",
     "esDestacado": false,
-    "orden": 22
+    "orden": 21
   },
   {
     "id": 32,
@@ -57,7 +57,7 @@
     "precio": 2,
     "tag": "",
     "esDestacado": false,
-    "orden": 23
+    "orden": 22
   },
   {
     "id": 33,
@@ -67,7 +67,7 @@
     "precio": 2,
     "tag": "",
     "esDestacado": false,
-    "orden": 24
+    "orden": 23
   },
   {
     "id": 34,
@@ -77,7 +77,7 @@
     "precio": 6,
     "tag": "",
     "esDestacado": false,
-    "orden": 25
+    "orden": 24
   },
   {
     "id": 35,
@@ -87,12 +87,12 @@
     "precio": 8,
     "tag": "",
     "esDestacado": false,
-    "orden": 26
+    "orden": 25
   },
   {
     "id": 10,
     "categoria": "Entradas",
-    "nombre": "SOPA CRIOLLA",
+    "nombre": "SOPA DE POLLO",
     "descripcion": "",
     "precio": 0,
     "tag": "",
@@ -102,7 +102,7 @@
   {
     "id": 11,
     "categoria": "Entradas",
-    "nombre": "PAPA A LA HUANCAINA ",
+    "nombre": "TORTITAS DE CHOCLO",
     "descripcion": "",
     "precio": 0,
     "tag": "",
@@ -112,7 +112,7 @@
   {
     "id": 12,
     "categoria": "Entradas",
-    "nombre": "TEQUE\u00D1OS MIXTOS",
+    "nombre": "TAMALES C/ SARZA CRIOLLA",
     "descripcion": "",
     "precio": 0,
     "tag": "",
@@ -122,9 +122,9 @@
   {
     "id": 13,
     "categoria": "Platos de fondo",
-    "nombre": "ARROZ CON MARISCOS",
+    "nombre": "CHAUFA * ALITAS BBQQ U BROSTER",
     "descripcion": "",
-    "precio": 13,
+    "precio": 12,
     "tag": "",
     "esDestacado": false,
     "orden": 4
@@ -132,9 +132,9 @@
   {
     "id": 14,
     "categoria": "Platos de fondo",
-    "nombre": "CHAUFA CON BROSTER",
+    "nombre": "ARROZ TAPADO A LO POBRE",
     "descripcion": "",
-    "precio": 13,
+    "precio": 12,
     "tag": "",
     "esDestacado": false,
     "orden": 5
@@ -142,7 +142,7 @@
   {
     "id": 15,
     "categoria": "Platos de fondo",
-    "nombre": "CHICHARRON DE CHANCHO",
+    "nombre": "CHICHARRON DE PESCADO",
     "descripcion": "",
     "precio": 12,
     "tag": "",
@@ -152,7 +152,7 @@
   {
     "id": 16,
     "categoria": "Platos de fondo",
-    "nombre": "TALLARINES ROJOS",
+    "nombre": "ARROZ C/POLLO Y CREMA A LA HUANCAINA",
     "descripcion": "",
     "precio": 10,
     "tag": "",
@@ -162,7 +162,7 @@
   {
     "id": 17,
     "categoria": "Platos de fondo",
-    "nombre": "GALLINA MECHADA",
+    "nombre": "POLLO AL HORNO C/ PURE",
     "descripcion": "",
     "precio": 12,
     "tag": "",
@@ -172,7 +172,7 @@
   {
     "id": 18,
     "categoria": "Platos de fondo",
-    "nombre": "OLLUQUITO DE CARNE CON PLATANO FRITO",
+    "nombre": "PICANTE DE CARNE C/ PLATANO FRITO",
     "descripcion": "",
     "precio": 10,
     "tag": "",
@@ -180,24 +180,14 @@
     "orden": 9
   },
   {
-    "id": 19,
+    "id": 20,
     "categoria": "Platos de fondo",
-    "nombre": "ESCABECHE DE POLLO ",
+    "nombre": "PESCADO FRITO",
     "descripcion": "",
     "precio": 10,
     "tag": "",
     "esDestacado": false,
     "orden": 10
-  },
-  {
-    "id": 20,
-    "categoria": "Platos de fondo",
-    "nombre": "PESCADO FRITO",
-    "descripcion": "",
-    "precio": 11,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 11
   },
   {
     "id": 21,
@@ -207,7 +197,7 @@
     "precio": 12,
     "tag": "",
     "esDestacado": false,
-    "orden": 12
+    "orden": 11
   },
   {
     "id": 22,
@@ -217,7 +207,7 @@
     "precio": 12,
     "tag": "",
     "esDestacado": false,
-    "orden": 13
+    "orden": 12
   },
   {
     "id": 23,
@@ -227,7 +217,7 @@
     "precio": 12,
     "tag": "",
     "esDestacado": false,
-    "orden": 14
+    "orden": 13
   },
   {
     "id": 24,
@@ -237,7 +227,7 @@
     "precio": 15,
     "tag": "",
     "esDestacado": false,
-    "orden": 15
+    "orden": 14
   },
   {
     "id": 25,
@@ -247,7 +237,7 @@
     "precio": 12,
     "tag": "",
     "esDestacado": false,
-    "orden": 16
+    "orden": 15
   },
   {
     "id": 36,
@@ -257,6 +247,16 @@
     "precio": 15,
     "tag": "",
     "esDestacado": false,
-    "orden": 17
+    "orden": 16
+  },
+  {
+    "id": 37,
+    "categoria": "Duos",
+    "nombre": "CEVICHE * ARROZ C/ POLLO",
+    "descripcion": "",
+    "precio": 18,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 26
   }
 ]
