@@ -7,7 +7,7 @@
     "precio": 2.5,
     "tag": "",
     "esDestacado": false,
-    "orden": 11
+    "orden": 18
   },
   {
     "id": 28,
@@ -17,7 +17,7 @@
     "precio": 1.5,
     "tag": "",
     "esDestacado": false,
-    "orden": 12
+    "orden": 19
   },
   {
     "id": 29,
@@ -27,7 +27,7 @@
     "precio": 3.5,
     "tag": "",
     "esDestacado": false,
-    "orden": 13
+    "orden": 20
   },
   {
     "id": 30,
@@ -37,7 +37,7 @@
     "precio": 10,
     "tag": "",
     "esDestacado": false,
-    "orden": 14
+    "orden": 21
   },
   {
     "id": 31,
@@ -47,7 +47,7 @@
     "precio": 2.5,
     "tag": "",
     "esDestacado": false,
-    "orden": 15
+    "orden": 22
   },
   {
     "id": 32,
@@ -57,7 +57,7 @@
     "precio": 2,
     "tag": "",
     "esDestacado": false,
-    "orden": 16
+    "orden": 23
   },
   {
     "id": 33,
@@ -67,7 +67,7 @@
     "precio": 2,
     "tag": "",
     "esDestacado": false,
-    "orden": 17
+    "orden": 24
   },
   {
     "id": 34,
@@ -77,7 +77,7 @@
     "precio": 6,
     "tag": "",
     "esDestacado": false,
-    "orden": 18
+    "orden": 25
   },
   {
     "id": 35,
@@ -87,67 +87,7 @@
     "precio": 8,
     "tag": "",
     "esDestacado": false,
-    "orden": 19
-  },
-  {
-    "id": 37,
-    "categoria": "Duos",
-    "nombre": "CEVICHE * ARROZ C/ POLLO",
-    "descripcion": "",
-    "precio": 18,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 20
-  },
-  {
-    "id": 10,
-    "categoria": "Entradas",
-    "nombre": "SOPA DE POLLO",
-    "descripcion": "",
-    "precio": 0,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 1
-  },
-  {
-    "id": 12,
-    "categoria": "Entradas",
-    "nombre": "TAMALES C/ SARZA CRIOLLA",
-    "descripcion": "",
-    "precio": 0,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 2
-  },
-  {
-    "id": 14,
-    "categoria": "Platos de fondo",
-    "nombre": "ARROZ TAPADO A LO POBRE",
-    "descripcion": "",
-    "precio": 12,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 3
-  },
-  {
-    "id": 15,
-    "categoria": "Platos de fondo",
-    "nombre": "CHICHARRON DE PESCADO",
-    "descripcion": "",
-    "precio": 12,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 4
-  },
-  {
-    "id": 18,
-    "categoria": "Platos de fondo",
-    "nombre": "PICANTE DE CARNE C/ PLATANO FRITO",
-    "descripcion": "",
-    "precio": 10,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 5
+    "orden": 26
   },
   {
     "id": 21,
@@ -157,7 +97,7 @@
     "precio": 12,
     "tag": "",
     "esDestacado": false,
-    "orden": 6
+    "orden": 4
   },
   {
     "id": 22,
@@ -167,7 +107,7 @@
     "precio": 12,
     "tag": "",
     "esDestacado": false,
-    "orden": 7
+    "orden": 5
   },
   {
     "id": 24,
@@ -177,7 +117,7 @@
     "precio": 12,
     "tag": "",
     "esDestacado": false,
-    "orden": 8
+    "orden": 6
   },
   {
     "id": 25,
@@ -187,7 +127,7 @@
     "precio": 12,
     "tag": "",
     "esDestacado": false,
-    "orden": 9
+    "orden": 7
   },
   {
     "id": 36,
@@ -197,6 +137,146 @@
     "precio": 15,
     "tag": "",
     "esDestacado": false,
+    "orden": 8
+  },
+  {
+    "id": 38,
+    "categoria": "Entradas",
+    "nombre": "sopa de res",
+    "descripcion": "",
+    "precio": 0,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 1
+  },
+  {
+    "id": 39,
+    "categoria": "Entradas",
+    "nombre": "Causa de atun",
+    "descripcion": "",
+    "precio": 0,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 2
+  },
+  {
+    "id": 40,
+    "categoria": "Entradas",
+    "nombre": "Ensalada rusa",
+    "descripcion": "",
+    "precio": 0,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 3
+  },
+  {
+    "id": 41,
+    "categoria": "Platos de fondo",
+    "nombre": "Chancho Mechado",
+    "descripcion": "",
+    "precio": 10,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 9
+  },
+  {
+    "id": 42,
+    "categoria": "Platos de fondo",
+    "nombre": "Cau cau c/n platano f.",
+    "descripcion": "",
+    "precio": 10,
+    "tag": "",
+    "esDestacado": false,
     "orden": 10
+  },
+  {
+    "id": 43,
+    "categoria": "Platos de fondo",
+    "nombre": "Pechuga a la plancha",
+    "descripcion": "",
+    "precio": 12,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 11
+  },
+  {
+    "id": 44,
+    "categoria": "Platos de fondo",
+    "nombre": "Asado de res c/n pure",
+    "descripcion": "",
+    "precio": 12,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 12
+  },
+  {
+    "id": 45,
+    "categoria": "Platos de fondo",
+    "nombre": "Seco de res c/n frejol",
+    "descripcion": "",
+    "precio": 12,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 13
+  },
+  {
+    "id": 46,
+    "categoria": "Platos de fondo",
+    "nombre": "Aji de gallina",
+    "descripcion": "",
+    "precio": 10,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 14
+  },
+  {
+    "id": 47,
+    "categoria": "Platos de fondo",
+    "nombre": "Pescado frito",
+    "descripcion": "",
+    "precio": 10,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 15
+  },
+  {
+    "id": 48,
+    "categoria": "Platos de fondo",
+    "nombre": "Chicharron de pollo \u002B Chaufa",
+    "descripcion": "",
+    "precio": 13,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 16
+  },
+  {
+    "id": 49,
+    "categoria": "Platos de fondo",
+    "nombre": "Tallarines Verdes",
+    "descripcion": "",
+    "precio": 12,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 17
+  },
+  {
+    "id": 50,
+    "categoria": "Duos",
+    "nombre": "Ceviche \u002B Aji de gallina",
+    "descripcion": "",
+    "precio": 18,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 27
+  },
+  {
+    "id": 51,
+    "categoria": "Duos",
+    "nombre": "Ceviche \u002B Seco de res",
+    "descripcion": "",
+    "precio": 18,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 28
   }
 ]
