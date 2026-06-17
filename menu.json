@@ -7,7 +7,7 @@
     "precio": 2.5,
     "tag": "",
     "esDestacado": false,
-    "orden": 18
+    "orden": 19
   },
   {
     "id": 28,
@@ -17,7 +17,7 @@
     "precio": 1.5,
     "tag": "",
     "esDestacado": false,
-    "orden": 19
+    "orden": 20
   },
   {
     "id": 29,
@@ -27,7 +27,7 @@
     "precio": 3.5,
     "tag": "",
     "esDestacado": false,
-    "orden": 20
+    "orden": 21
   },
   {
     "id": 30,
@@ -37,7 +37,7 @@
     "precio": 10,
     "tag": "",
     "esDestacado": false,
-    "orden": 21
+    "orden": 22
   },
   {
     "id": 31,
@@ -47,7 +47,7 @@
     "precio": 2.5,
     "tag": "",
     "esDestacado": false,
-    "orden": 22
+    "orden": 23
   },
   {
     "id": 32,
@@ -57,7 +57,7 @@
     "precio": 2,
     "tag": "",
     "esDestacado": false,
-    "orden": 23
+    "orden": 24
   },
   {
     "id": 33,
@@ -67,7 +67,7 @@
     "precio": 2,
     "tag": "",
     "esDestacado": false,
-    "orden": 24
+    "orden": 25
   },
   {
     "id": 34,
@@ -77,7 +77,7 @@
     "precio": 6,
     "tag": "",
     "esDestacado": false,
-    "orden": 25
+    "orden": 26
   },
   {
     "id": 35,
@@ -87,7 +87,57 @@
     "precio": 8,
     "tag": "",
     "esDestacado": false,
-    "orden": 26
+    "orden": 27
+  },
+  {
+    "id": 50,
+    "categoria": "Duos",
+    "nombre": "Ceviche \u002B cabrito",
+    "descripcion": "",
+    "precio": 20,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 28
+  },
+  {
+    "id": 51,
+    "categoria": "Duos",
+    "nombre": "Ceviche \u002B tallarin ala huancaina ",
+    "descripcion": "",
+    "precio": 20,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 29
+  },
+  {
+    "id": 38,
+    "categoria": "Entradas",
+    "nombre": "sopa de pollo",
+    "descripcion": "",
+    "precio": 0,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 1
+  },
+  {
+    "id": 39,
+    "categoria": "Entradas",
+    "nombre": "Causa de atun",
+    "descripcion": "",
+    "precio": 0,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 2
+  },
+  {
+    "id": 40,
+    "categoria": "Entradas",
+    "nombre": "torta de choclo",
+    "descripcion": "",
+    "precio": 0,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 3
   },
   {
     "id": 21,
@@ -140,39 +190,9 @@
     "orden": 8
   },
   {
-    "id": 38,
-    "categoria": "Entradas",
-    "nombre": "sopa de res",
-    "descripcion": "",
-    "precio": 0,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 1
-  },
-  {
-    "id": 39,
-    "categoria": "Entradas",
-    "nombre": "Causa de atun",
-    "descripcion": "",
-    "precio": 0,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 2
-  },
-  {
-    "id": 40,
-    "categoria": "Entradas",
-    "nombre": "Ensalada rusa",
-    "descripcion": "",
-    "precio": 0,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 3
-  },
-  {
     "id": 41,
     "categoria": "Platos de fondo",
-    "nombre": "Chancho Mechado",
+    "nombre": "picante de carne c/n platano f.",
     "descripcion": "",
     "precio": 10,
     "tag": "",
@@ -182,7 +202,7 @@
   {
     "id": 42,
     "categoria": "Platos de fondo",
-    "nombre": "Cau cau c/n platano f.",
+    "nombre": "chicharronde pota ",
     "descripcion": "",
     "precio": 10,
     "tag": "",
@@ -202,9 +222,9 @@
   {
     "id": 44,
     "categoria": "Platos de fondo",
-    "nombre": "Asado de res c/n pure",
+    "nombre": "pollo mechado c/n ensalada rusa",
     "descripcion": "",
-    "precio": 12,
+    "precio": 10,
     "tag": "",
     "esDestacado": false,
     "orden": 12
@@ -212,7 +232,7 @@
   {
     "id": 45,
     "categoria": "Platos de fondo",
-    "nombre": "Seco de res c/n frejol",
+    "nombre": "arroz tapado a lo pobre ",
     "descripcion": "",
     "precio": 12,
     "tag": "",
@@ -222,9 +242,9 @@
   {
     "id": 46,
     "categoria": "Platos de fondo",
-    "nombre": "Aji de gallina",
+    "nombre": "chaufa \u002B broaster ",
     "descripcion": "",
-    "precio": 10,
+    "precio": 13,
     "tag": "",
     "esDestacado": false,
     "orden": 14
@@ -234,7 +254,7 @@
     "categoria": "Platos de fondo",
     "nombre": "Pescado frito",
     "descripcion": "",
-    "precio": 10,
+    "precio": 11,
     "tag": "",
     "esDestacado": false,
     "orden": 15
@@ -242,7 +262,7 @@
   {
     "id": 48,
     "categoria": "Platos de fondo",
-    "nombre": "Chicharron de pollo \u002B Chaufa",
+    "nombre": "cabrito ala norte\u00F1a ",
     "descripcion": "",
     "precio": 13,
     "tag": "",
@@ -252,7 +272,7 @@
   {
     "id": 49,
     "categoria": "Platos de fondo",
-    "nombre": "Tallarines Verdes",
+    "nombre": "Tallarines ala huancaina ",
     "descripcion": "",
     "precio": 12,
     "tag": "",
@@ -260,23 +280,23 @@
     "orden": 17
   },
   {
-    "id": 50,
+    "id": 52,
     "categoria": "Duos",
-    "nombre": "Ceviche \u002B Aji de gallina",
+    "nombre": "ceviche \u002B chicharron de pota",
     "descripcion": "",
     "precio": 18,
     "tag": "",
     "esDestacado": false,
-    "orden": 27
+    "orden": 30
   },
   {
-    "id": 51,
-    "categoria": "Duos",
-    "nombre": "Ceviche \u002B Seco de res",
+    "id": 53,
+    "categoria": "Platos de fondo",
+    "nombre": "sudado de pescado",
     "descripcion": "",
-    "precio": 18,
+    "precio": 13,
     "tag": "",
     "esDestacado": false,
-    "orden": 28
+    "orden": 18
   }
 ]
