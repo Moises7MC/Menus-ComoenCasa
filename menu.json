@@ -7,7 +7,7 @@
     "precio": 2.5,
     "tag": "",
     "esDestacado": false,
-    "orden": 15
+    "orden": 16
   },
   {
     "id": 28,
@@ -17,7 +17,7 @@
     "precio": 1.5,
     "tag": "",
     "esDestacado": false,
-    "orden": 16
+    "orden": 17
   },
   {
     "id": 29,
@@ -27,7 +27,7 @@
     "precio": 3.5,
     "tag": "",
     "esDestacado": false,
-    "orden": 17
+    "orden": 18
   },
   {
     "id": 30,
@@ -37,7 +37,7 @@
     "precio": 10,
     "tag": "",
     "esDestacado": false,
-    "orden": 18
+    "orden": 19
   },
   {
     "id": 31,
@@ -47,7 +47,7 @@
     "precio": 2.5,
     "tag": "",
     "esDestacado": false,
-    "orden": 19
+    "orden": 20
   },
   {
     "id": 32,
@@ -57,7 +57,7 @@
     "precio": 2,
     "tag": "",
     "esDestacado": false,
-    "orden": 20
+    "orden": 21
   },
   {
     "id": 33,
@@ -67,7 +67,7 @@
     "precio": 2.5,
     "tag": "",
     "esDestacado": false,
-    "orden": 21
+    "orden": 22
   },
   {
     "id": 34,
@@ -77,7 +77,7 @@
     "precio": 6,
     "tag": "",
     "esDestacado": false,
-    "orden": 22
+    "orden": 23
   },
   {
     "id": 35,
@@ -87,42 +87,12 @@
     "precio": 8,
     "tag": "",
     "esDestacado": false,
-    "orden": 23
-  },
-  {
-    "id": 50,
-    "categoria": "Duos",
-    "nombre": "Ceviche \u002B cabrito",
-    "descripcion": "",
-    "precio": 20,
-    "tag": "",
-    "esDestacado": false,
     "orden": 24
-  },
-  {
-    "id": 51,
-    "categoria": "Duos",
-    "nombre": "Ceviche \u002B tallarin ala huancaina ",
-    "descripcion": "",
-    "precio": 20,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 25
-  },
-  {
-    "id": 52,
-    "categoria": "Duos",
-    "nombre": "ceviche \u002B chicharron de pota",
-    "descripcion": "",
-    "precio": 18,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 26
   },
   {
     "id": 39,
     "categoria": "Entradas",
-    "nombre": "Causa de atun",
+    "nombre": "humitas c/n sarza",
     "descripcion": "",
     "precio": 0,
     "tag": "",
@@ -132,7 +102,7 @@
   {
     "id": 54,
     "categoria": "Entradas",
-    "nombre": "Tamal con zarza",
+    "nombre": "sopa de res",
     "descripcion": "",
     "precio": 0,
     "tag": "",
@@ -142,7 +112,7 @@
   {
     "id": 55,
     "categoria": "Entradas",
-    "nombre": "Sopa de res",
+    "nombre": "torta de choclo ala chalaca",
     "descripcion": "",
     "precio": 0,
     "tag": "",
@@ -152,9 +122,9 @@
   {
     "id": 56,
     "categoria": "Platos de fondo",
-    "nombre": "Chancho Mechado",
+    "nombre": "aji de gallina",
     "descripcion": "",
-    "precio": 0,
+    "precio": 10,
     "tag": "",
     "esDestacado": false,
     "orden": 4
@@ -162,9 +132,9 @@
   {
     "id": 57,
     "categoria": "Platos de fondo",
-    "nombre": "Pollo a la olla",
+    "nombre": "chaufa depollo c/n platano f",
     "descripcion": "",
-    "precio": 0,
+    "precio": 10,
     "tag": "",
     "esDestacado": false,
     "orden": 5
@@ -172,9 +142,9 @@
   {
     "id": 58,
     "categoria": "Platos de fondo",
-    "nombre": "Escabeche de pescado",
+    "nombre": "saltado de pollo",
     "descripcion": "",
-    "precio": 0,
+    "precio": 10,
     "tag": "",
     "esDestacado": false,
     "orden": 6
@@ -184,7 +154,7 @@
     "categoria": "Platos de fondo",
     "nombre": "Seco de Res",
     "descripcion": "",
-    "precio": 0,
+    "precio": 12,
     "tag": "",
     "esDestacado": false,
     "orden": 7
@@ -194,7 +164,7 @@
     "categoria": "Platos de fondo",
     "nombre": "Lomo saltado",
     "descripcion": "",
-    "precio": 0,
+    "precio": 12,
     "tag": "",
     "esDestacado": false,
     "orden": 8
@@ -204,7 +174,7 @@
     "categoria": "Platos de fondo",
     "nombre": "Milanesa pollo con papas",
     "descripcion": "",
-    "precio": 0,
+    "precio": 12,
     "tag": "",
     "esDestacado": false,
     "orden": 9
@@ -214,7 +184,7 @@
     "categoria": "Platos de fondo",
     "nombre": "Pescafdo Frito",
     "descripcion": "",
-    "precio": 0,
+    "precio": 11,
     "tag": "",
     "esDestacado": false,
     "orden": 10
@@ -224,7 +194,7 @@
     "categoria": "Platos de fondo",
     "nombre": "Pechuga a la plancha con papas fritas",
     "descripcion": "",
-    "precio": 0,
+    "precio": 12,
     "tag": "",
     "esDestacado": false,
     "orden": 11
@@ -234,7 +204,7 @@
     "categoria": "Platos de fondo",
     "nombre": "Churrasco con papas fritas",
     "descripcion": "",
-    "precio": 0,
+    "precio": 12,
     "tag": "",
     "esDestacado": false,
     "orden": 12
@@ -244,7 +214,7 @@
     "categoria": "Platos de fondo",
     "nombre": "Chuleta con papas fritas",
     "descripcion": "",
-    "precio": 0,
+    "precio": 12,
     "tag": "",
     "esDestacado": false,
     "orden": 13
@@ -252,11 +222,21 @@
   {
     "id": 66,
     "categoria": "Platos de fondo",
-    "nombre": "Chicharron de pollo",
+    "nombre": "arroz c/n mariscos",
     "descripcion": "",
-    "precio": 0,
+    "precio": 13,
     "tag": "",
     "esDestacado": false,
     "orden": 14
+  },
+  {
+    "id": 67,
+    "categoria": "Platos de fondo",
+    "nombre": "ceviche de toyo",
+    "descripcion": "",
+    "precio": 15,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 15
   }
 ]
