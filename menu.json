@@ -100,6 +100,16 @@
     "orden": 30
   },
   {
+    "id": 74,
+    "categoria": "Duos",
+    "nombre": "CEVICHE DE TOYO * ARROZ CON MARISCOS",
+    "descripcion": "",
+    "precio": 20,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 31
+  },
+  {
     "id": 39,
     "categoria": "Entradas",
     "nombre": "TORTITAS DE CHOCLO",
@@ -298,15 +308,5 @@
     "tag": "",
     "esDestacado": false,
     "orden": 20
-  },
-  {
-    "id": 74,
-    "categoria": "Duos",
-    "nombre": "CEVICHE DE TOYO * ARROZ CON MARISCOS",
-    "descripcion": "",
-    "precio": 20,
-    "tag": "",
-    "esDestacado": false,
-    "orden": 31
   }
 ]
