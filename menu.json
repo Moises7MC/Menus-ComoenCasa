@@ -7,7 +7,7 @@
     "precio": 2.5,
     "tag": "",
     "esDestacado": false,
-    "orden": 18
+    "orden": 21
   },
   {
     "id": 28,
@@ -17,7 +17,7 @@
     "precio": 1.5,
     "tag": "",
     "esDestacado": false,
-    "orden": 19
+    "orden": 22
   },
   {
     "id": 29,
@@ -27,7 +27,7 @@
     "precio": 3.5,
     "tag": "",
     "esDestacado": false,
-    "orden": 20
+    "orden": 23
   },
   {
     "id": 30,
@@ -37,7 +37,7 @@
     "precio": 10,
     "tag": "",
     "esDestacado": false,
-    "orden": 21
+    "orden": 24
   },
   {
     "id": 31,
@@ -47,7 +47,7 @@
     "precio": 2.5,
     "tag": "",
     "esDestacado": false,
-    "orden": 22
+    "orden": 25
   },
   {
     "id": 32,
@@ -57,7 +57,7 @@
     "precio": 2,
     "tag": "",
     "esDestacado": false,
-    "orden": 23
+    "orden": 26
   },
   {
     "id": 33,
@@ -67,7 +67,7 @@
     "precio": 2.5,
     "tag": "",
     "esDestacado": false,
-    "orden": 24
+    "orden": 27
   },
   {
     "id": 34,
@@ -77,7 +77,7 @@
     "precio": 6,
     "tag": "",
     "esDestacado": false,
-    "orden": 25
+    "orden": 28
   },
   {
     "id": 35,
@@ -87,12 +87,22 @@
     "precio": 8,
     "tag": "",
     "esDestacado": false,
-    "orden": 26
+    "orden": 29
+  },
+  {
+    "id": 70,
+    "categoria": "Duos",
+    "nombre": "CHAUFA * COSTILLAS BBQ",
+    "descripcion": "",
+    "precio": 15,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 30
   },
   {
     "id": 39,
     "categoria": "Entradas",
-    "nombre": "papa ala huancaina",
+    "nombre": "TORTITAS DE CHOCLO",
     "descripcion": "",
     "precio": 0,
     "tag": "",
@@ -102,7 +112,7 @@
   {
     "id": 54,
     "categoria": "Entradas",
-    "nombre": "sopa de res",
+    "nombre": "SOPA DE SEMOLA",
     "descripcion": "",
     "precio": 0,
     "tag": "",
@@ -112,7 +122,7 @@
   {
     "id": 55,
     "categoria": "Entradas",
-    "nombre": "tamales con sarza",
+    "nombre": "PALTA RELLENA",
     "descripcion": "",
     "precio": 0,
     "tag": "",
@@ -122,7 +132,7 @@
   {
     "id": 56,
     "categoria": "Platos de fondo",
-    "nombre": "saltadito de pollo",
+    "nombre": "POLLO A LA OLLA ",
     "descripcion": "",
     "precio": 10,
     "tag": "",
@@ -132,7 +142,7 @@
   {
     "id": 57,
     "categoria": "Platos de fondo",
-    "nombre": "higado encebollado",
+    "nombre": "CHAUFA DE POLLO / PLATANO FRITO",
     "descripcion": "",
     "precio": 10,
     "tag": "",
@@ -142,9 +152,9 @@
   {
     "id": 58,
     "categoria": "Platos de fondo",
-    "nombre": "seco de res ",
+    "nombre": "TALLARINES ROJOS",
     "descripcion": "",
-    "precio": 12,
+    "precio": 10,
     "tag": "",
     "esDestacado": false,
     "orden": 6
@@ -152,9 +162,9 @@
   {
     "id": 59,
     "categoria": "Platos de fondo",
-    "nombre": "pollo mechado",
+    "nombre": "CHICHARRON DE POLLO",
     "descripcion": "",
-    "precio": 10,
+    "precio": 12,
     "tag": "",
     "esDestacado": false,
     "orden": 7
@@ -162,9 +172,9 @@
   {
     "id": 60,
     "categoria": "Platos de fondo",
-    "nombre": "broster con chaufa",
+    "nombre": "COSTILLAS MECHADAS /PAPAS F ",
     "descripcion": "",
-    "precio": 13,
+    "precio": 12,
     "tag": "",
     "esDestacado": false,
     "orden": 8
@@ -172,9 +182,9 @@
   {
     "id": 61,
     "categoria": "Platos de fondo",
-    "nombre": "asado de res con pure",
+    "nombre": "TACU TACU /LOMO SALTADO ",
     "descripcion": "",
-    "precio": 12,
+    "precio": 15,
     "tag": "",
     "esDestacado": false,
     "orden": 9
@@ -182,9 +192,9 @@
   {
     "id": 62,
     "categoria": "Platos de fondo",
-    "nombre": "arroz tapado con platano frito",
+    "nombre": "ARROZ CON MARISCOS",
     "descripcion": "",
-    "precio": 12,
+    "precio": 13,
     "tag": "",
     "esDestacado": false,
     "orden": 10
@@ -192,9 +202,9 @@
   {
     "id": 63,
     "categoria": "Platos de fondo",
-    "nombre": "pescado frito",
+    "nombre": "BISTEK A LO POBRE ",
     "descripcion": "",
-    "precio": 10,
+    "precio": 13,
     "tag": "",
     "esDestacado": false,
     "orden": 11
@@ -202,9 +212,9 @@
   {
     "id": 64,
     "categoria": "Platos de fondo",
-    "nombre": "lomo saltado",
+    "nombre": "LOMO SALTADO A LO POBRE ",
     "descripcion": "",
-    "precio": 12,
+    "precio": 13,
     "tag": "",
     "esDestacado": false,
     "orden": 12
@@ -212,9 +222,9 @@
   {
     "id": 65,
     "categoria": "Platos de fondo",
-    "nombre": "milanesa con papas fritas",
+    "nombre": "CHULETA  A LO POBRE ",
     "descripcion": "",
-    "precio": 12,
+    "precio": 13,
     "tag": "",
     "esDestacado": false,
     "orden": 13
@@ -222,9 +232,9 @@
   {
     "id": 66,
     "categoria": "Platos de fondo",
-    "nombre": "churrasco con papas fritas",
+    "nombre": "PESCADO FRITO ",
     "descripcion": "",
-    "precio": 12,
+    "precio": 10,
     "tag": "",
     "esDestacado": false,
     "orden": 14
@@ -232,7 +242,7 @@
   {
     "id": 67,
     "categoria": "Platos de fondo",
-    "nombre": "pechuga a la plancha con papas f",
+    "nombre": "LOMO SALTADO ",
     "descripcion": "",
     "precio": 12,
     "tag": "",
@@ -242,7 +252,7 @@
   {
     "id": 68,
     "categoria": "Platos de fondo",
-    "nombre": "chuleta con papas fritas ",
+    "nombre": "MILANESA CON PAPA S FRITAS ",
     "descripcion": "",
     "precio": 12,
     "tag": "",
@@ -252,21 +262,51 @@
   {
     "id": 69,
     "categoria": "Platos de fondo",
-    "nombre": "ceviche de toyo",
+    "nombre": "CHURRASCO CON PAPAS FRITAS",
     "descripcion": "",
-    "precio": 15,
+    "precio": 12,
     "tag": "",
     "esDestacado": false,
     "orden": 17
   },
   {
-    "id": 70,
-    "categoria": "Duos",
-    "nombre": "ceviche de toyo * seco de res ",
+    "id": 71,
+    "categoria": "Platos de fondo",
+    "nombre": "PECHUGA CON PAPAS FRITAS",
     "descripcion": "",
-    "precio": 18,
+    "precio": 12,
     "tag": "",
     "esDestacado": false,
-    "orden": 27
+    "orden": 18
+  },
+  {
+    "id": 72,
+    "categoria": "Platos de fondo",
+    "nombre": "CHULETA CON PAPAS FRITAS ",
+    "descripcion": "",
+    "precio": 12,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 19
+  },
+  {
+    "id": 73,
+    "categoria": "Platos de fondo",
+    "nombre": "CEVICHE DE TOYO",
+    "descripcion": "",
+    "precio": 15,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 20
+  },
+  {
+    "id": 74,
+    "categoria": "Duos",
+    "nombre": "CEVICHE DE TOYO * ARROZ CON MARISCOS",
+    "descripcion": "",
+    "precio": 20,
+    "tag": "",
+    "esDestacado": false,
+    "orden": 31
   }
 ]
